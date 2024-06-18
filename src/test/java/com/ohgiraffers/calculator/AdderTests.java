@@ -29,6 +29,7 @@ public class AdderTests {
         int first = 2;
         int second = 3;
 
+
         //when
         int result = new Adder().add(first, second);
 
